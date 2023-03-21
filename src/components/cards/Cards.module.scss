@@ -1,0 +1,19 @@
+$radius:10px;
+
+.cards{
+    // width: 220px;
+    border: 2px  solid #0b5ed7;
+    border-radius: 8px;
+    // margin: 0 15px 15px 0;
+}
+
+.img{
+    border-radius:$radius $radius 0 0 ;
+}
+
+.badge{
+    top: 10px;
+    right: 20px;
+    font-size: 17px;
+   
+}
